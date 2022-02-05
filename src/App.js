@@ -3,7 +3,7 @@ import React from 'react';
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
-import Home from "./components/Home/Home.jsx";
+import Home from "./components/Home/Home.js";
 import MovieDetail from "./components/MovieDetail/MovieDetail";
 import PageNotFound from "./components/PageNotFound/PageNotFound";
 
